@@ -1,4 +1,15 @@
-## Hi there 👋
+<h3>Hello, world!👋 eu sou o Jhonatan e organizo meus projetos por aqui, sejam bem-vindos!</h3>
+
+<div align=center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=50 />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=50 />
+</div>
+          
+          
+
 
 <!--
 **jhonny-sts/jhonny-sts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
