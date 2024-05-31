@@ -1,7 +1,5 @@
-<h3 align=center>Hello, world!👋 eu sou o Jhonatan e organizo meus projetos por aqui, sejam bem-vindos!</h3>
-<hr/>
-<br/>
-<br/>
+<div border-size=2> <h4 align=center>Hello, world!👋 eu sou o Jhonatan e organizo meus projetos por aqui, sejam bem-vindos!</h4></div> 
+<hr>
 <div align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=40 />
