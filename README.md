@@ -1,6 +1,5 @@
 <div border-size=2> <h4 align=center>Hello, world!👋 eu sou o Jhonatan e organizo meus projetos por aqui, sejam bem-vindos!</h4></div>
 <div align=center>
-    <a href="https://github.com/jhonny-sts">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=35 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=35 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height=35 />
